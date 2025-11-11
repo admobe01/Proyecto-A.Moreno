@@ -289,7 +289,7 @@ $contadorQ = 0;
         }
     }
     $rocasCoste = $contadorX * 75000;
-    $cabrasCoste = $contadorQ * 25000;
+    $cabrasCoste = $contadorQ * 250000;
 
     $dañototal = $rocasCoste + $cabrasCoste;
 
